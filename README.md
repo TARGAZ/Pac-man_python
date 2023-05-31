@@ -3,9 +3,9 @@ This project his about to remake the original Pacman game in python, in 1 weak f
 
 ## How to play 
 ### Library to install :
-pip install pygame
-pip install dijkstar
-pip install heapq
+- pip install pygame
+- pip install dijkstar
+- pip install heapq
 
 ### Launch the game :
 Use python 3.9
